@@ -1,4 +1,4 @@
-## Gus Tropea's Webpage
+## Gus Tropea
 I am a masters student in department of mathematics at Boise State Univerisy. My past research interests have been in the areas of statistical modeling, image analysis, and machine learning.
 
 ### Contact
