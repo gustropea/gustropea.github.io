@@ -1,6 +1,6 @@
 ## Gus Tropea's Webpage
 
 
-###Contact
+### Contact
 
 gustropea@u.boisestate.edu
